@@ -2464,72 +2464,103 @@
                                 }
                             ]
                         },
-                        {
-                            "name": "Canada",
-                            "type": "folder",
-                            "children": [
-                                {
-                                    "name": "Archives",
-                                    "type": "folder",
-                                    "children": []
-                                },
-                                {
-                                    "name": "Classifieds",
-                                    "type": "folder",
-                                    "children": []
-                                },
-                                {
-                                    "name": "Dating",
-                                    "type": "folder",
-                                    "children": []
-                                },
-                                {
-                                    "name": "Geolocation",
-                                    "type": "folder",
-                                    "children": []
-                                },
-                                {
-                                    "name": "Property Records",
-                                    "type": "folder",
-                                    "children": []
-                                },
-                                {
-                                    "name": "Publicly Traded corp info",
-                                    "type": "folder",
-                                    "children": []
-                                },
-                                {
-                                    "name": "Telephone Records",
-                                    "type": "folder",
-                                    "children": []
-                                },
-                                {
-                                    "name": "Transportation",
-                                    "type": "folder",
-                                    "children": []
-                                },
-                                {
-                                    "name": "Social Media",
-                                    "type": "folder",
-                                    "children": []
-                                },
-                                {
-                                    "name": "Private Company Records",
-                                    "type": "folder",
-                                    "children": []
-                                },
-                                {
-                                    "name": "Court Records",
-                                    "type": "folder",
-                                    "children": []
-                                },
-                                {
-                                    "name": "Criminal Records",
-                                    "type": "folder",
-                                    "children": []
-                                }
-                            ]
-                        },
+{
+  "name": "Canada",
+  "type": "folder",
+  "children": [
+    {
+      "name": "Archives",
+      "type": "folder",
+      "children": []
+    },
+    {
+      "name": "Classifieds",
+      "type": "folder",
+      "children": []
+    },
+    {
+      "name": "Dating",
+      "type": "folder",
+      "children": []
+    },
+    {
+      "name": "Geolocation",
+      "type": "folder",
+      "children": []
+    },
+    {
+      "name": "Property Records",
+      "type": "folder",
+      "children": []
+    },
+    {
+      "name": "Publicly Traded corp info",
+      "type": "folder",
+      "children": []
+    },
+    {
+      "name": "Telephone Records",
+      "type": "folder",
+      "children": []
+    },
+    {
+      "name": "Transportation",
+      "type": "folder",
+      "children": []
+    },
+    {
+      "name": "Social Media",
+      "type": "folder",
+      "children": []
+    },
+    {
+      "name": "Private Company Records",
+      "type": "folder",
+      "children": []
+    },
+    {
+      "name": "Court Records",
+      "type": "folder",
+      "children": []
+    },
+    {
+      "name": "Criminal Records",
+      "type": "folder",
+      "children": []
+    },
+    {
+      "name": "Province Specific",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Provinces",
+          "type": "folder",
+          "children": [
+            {"name": "Alberta", "type": "folder", "children": []},
+            {"name": "British Columbia", "type": "folder", "children": []},
+            {"name": "Manitoba", "type": "folder", "children": []},
+            {"name": "New Brunswick", "type": "folder", "children": []},
+            {"name": "Newfoundland and Labrador", "type": "folder", "children": []},
+            {"name": "Nova Scotia", "type": "folder", "children": []},
+            {"name": "Ontario", "type": "folder", "children": []},
+            {"name": "Prince Edward Island", "type": "folder", "children": []},
+            {"name": "Quebec", "type": "folder", "children": []},
+            {"name": "Saskatchewan", "type": "folder", "children": []}
+          ]
+        },
+        {
+          "name": "Territories",
+          "type": "folder",
+          "children": [
+            {"name": "Northwest Territories", "type": "folder", "children": []},
+            {"name": "Nunavut", "type": "folder", "children": []},
+            {"name": "Yukon", "type": "folder", "children": []}
+          ]
+        }
+      ]
+    }
+  ]
+},
                         {
                             "name": "Cocos (Keeling) Islands",
                             "type": "folder",
