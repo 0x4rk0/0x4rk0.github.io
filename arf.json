@@ -15740,20 +15740,20 @@
                                     "type": "folder",
                                     "children": [
                                         {
-  "name": "Yahoo Finance",
-  "type": "url",
-  "url": "https://finance.yahoo.com/"
-},
-{
-  "name": "Finviz",
-  "type": "url",
-  "url": "https://finviz.com/"
-},
-{
-  "name": "NASDAQ Insider Transactions",
-  "type": "url",
-  "url": "https://www.nasdaq.com/market-activity/stocks/amzn/insider-activity"
-}
+                                              "name": "Yahoo Finance",
+                                              "type": "url",
+                                              "url": "https://finance.yahoo.com/"
+                                            },
+                                            {
+                                              "name": "Finviz",
+                                              "type": "url",
+                                              "url": "https://finviz.com/"
+                                            },
+                                            {
+                                              "name": "NASDAQ Insider Transactions",
+                                              "type": "url",
+                                              "url": "https://www.nasdaq.com/market-activity/stocks/amzn/insider-activity"
+                                            }
                                     ]
                                 },
                                 {
