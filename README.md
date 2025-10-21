@@ -16,4 +16,4 @@ For new resources, please ensure that the site is available for public and free 
   <li>Submit pull request!</li>
 </ol>
 
-actively exploited
+in-the-wild
