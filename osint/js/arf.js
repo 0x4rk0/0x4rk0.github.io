@@ -3,6 +3,8 @@ var margin = [20, 120, 20, 140],
     height = 800 - margin[0] - margin[2],
     viewerWidth = getViewportDimension(width + margin[1] + margin[3], 'width'),
     viewerHeight = getViewportDimension(height + margin[0] + margin[2], 'height'),
+    depthSpacing = 220,
+    verticalSpacing = 1.35,
     i = 0,
     duration = 1250,
     root;
@@ -67,7 +69,10 @@ function update(source) {
   var nodes = tree.nodes(root).reverse();
 
   // Normalize for fixed-depth.
-  nodes.forEach(function(d) { d.y = d.depth * 220; });
+  nodes.forEach(function(d) {
+    d.y = d.depth * depthSpacing;
+    d.x = d.x * verticalSpacing;
+  });
 
   // Update the nodes…
   var node = vis.selectAll("g.node")
