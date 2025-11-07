@@ -2,6 +2,15 @@ var IGNORED_PATH_SEGMENTS = {
       'Country Specific Tools': true,
       'Counties (A-Z)': true
     },
+    resourceNameInput = document.getElementById('resource-name'),
+    resourceLinkInput = document.getElementById('resource-link'),
+    resourceTargetLabel = document.getElementById('resource-target-path'),
+    addResourceButton = document.getElementById('add-resource'),
+    jsonOutput = document.getElementById('json-output'),
+    copyJsonButton = document.getElementById('copy-json'),
+    downloadJsonButton = document.getElementById('download-json'),
+    lastFocusedNode = null,
+    root = null,
     margin = [20, 120, 20, 140],
     width = 960,
     height = 720,
@@ -11,8 +20,11 @@ var IGNORED_PATH_SEGMENTS = {
     verticalSpacing = 1.35,
     i = 0,
     duration = 1250,
-    root,
-    lastFocusedNode = null;
+    currentSnippet = '';
+
+if (jsonOutput) {
+  jsonOutput.value = '';
+}
 
 var tree = d3.layout.tree()
     .size([height, width])
@@ -47,7 +59,50 @@ resizeCanvas();
 
 d3.select(window).on('resize', resizeCanvas);
 
-d3.json('arf.json', function(json) {
+if (addResourceButton) {
+  addResourceButton.addEventListener('click', handleAddResource);
+}
+
+if (copyJsonButton && jsonOutput) {
+  copyJsonButton.addEventListener('click', function() {
+    if (!currentSnippet) {
+      alert('Add a resource first to generate JSON output.');
+      return;
+    }
+    if (navigator.clipboard) {
+      navigator.clipboard.writeText(currentSnippet);
+    } else if (jsonOutput) {
+      jsonOutput.select();
+      document.execCommand('copy');
+    }
+  });
+}
+
+if (downloadJsonButton && jsonOutput) {
+  downloadJsonButton.addEventListener('click', function() {
+    if (!currentSnippet) {
+      alert('Add a resource first to generate JSON output.');
+      return;
+    }
+    var blob = new Blob([currentSnippet], {type: 'application/json'});
+    var url = URL.createObjectURL(blob);
+    var a = document.createElement('a');
+    a.href = url;
+    a.download = 'arf.json';
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+  });
+}
+
+d3.json('arf.json', function(error, json) {
+  if (error || !json) {
+    if (jsonOutput) {
+      jsonOutput.value = 'Unable to load arf.json: ' + (error ? error : 'Unknown error');
+    }
+    return;
+  }
   root = json;
   root.x0 = height / 2;
   root.y0 = 0;
@@ -257,6 +312,15 @@ function setLastFocusedNode(node) {
     return;
   }
   lastFocusedNode = sanitizeTarget(node);
+
+  if (resourceTargetLabel) {
+    var path = buildPathString(lastFocusedNode);
+    resourceTargetLabel.textContent = path || '(root)';
+  }
+
+  if (addResourceButton) {
+    addResourceButton.disabled = !lastFocusedNode;
+  }
 }
 
 function sanitizeTarget(node) {
@@ -267,6 +331,56 @@ function sanitizeTarget(node) {
     return node.parentRef;
   }
   return node;
+}
+
+function handleAddResource() {
+  if (!lastFocusedNode || !resourceNameInput || !resourceLinkInput) {
+    return;
+  }
+
+  var name = (resourceNameInput.value || '').trim();
+  var url = (resourceLinkInput.value || '').trim();
+
+  if (!name || !url) {
+    alert('Provide both a name and URL for the new resource.');
+    return;
+  }
+
+  var target = lastFocusedNode;
+  if (target._children && !target.children) {
+    target.children = target._children;
+    target._children = null;
+  }
+  if (!Array.isArray(target.children)) {
+    target.children = [];
+  }
+
+  var newNode = {
+    name: name,
+    type: 'link',
+    children: [],
+    url: url,
+    description: name + ' (added via in-browser workflow)'
+  };
+
+  target.children.push(newNode);
+  assignParents(root, null);
+  warmCache(target);
+  update(target);
+  centerNode(target);
+  setLastFocusedNode(target);
+  updateSnippetPreview(target, newNode);
+  resourceNameInput.value = '';
+  resourceLinkInput.value = '';
+}
+
+function updateSnippetPreview(target, newChild) {
+  if (!jsonOutput || !target || !newChild) {
+    return;
+  }
+  var snippet = buildSnippet(target, newChild);
+  currentSnippet = JSON.stringify(snippet, null, 2);
+  jsonOutput.value = currentSnippet;
 }
 
 function buildPathString(node) {
@@ -302,6 +416,63 @@ function filterPathComponents(parts) {
     }
     return true;
   });
+}
+
+function filterChainNodes(nodes) {
+  return nodes.filter(function(node, index) {
+    var name = node.name || '';
+    var lower = name.toLowerCase();
+    if (index === 0 && lower.indexOf('osint') === 0) {
+      return false;
+    }
+    if (IGNORED_PATH_SEGMENTS[name]) {
+      return false;
+    }
+    if (/^[a-z]$/i.test(name) && name.length === 1) {
+      return false;
+    }
+    return true;
+  });
+}
+
+function buildSnippet(target, newChild) {
+  var chain = [];
+  var current = target;
+  while (current) {
+    chain.push(current);
+    current = current.parentRef;
+  }
+  chain = filterChainNodes(chain.reverse());
+  if (!chain.length) {
+    chain = [target];
+  }
+
+  function cloneNode(node) {
+    var clone = {
+      name: node.name,
+      type: node.type
+    };
+    if (node.description) {
+      clone.description = node.description;
+    }
+    if (node.url) {
+      clone.url = node.url;
+    }
+    return clone;
+  }
+
+  function buildLevel(index) {
+    var clone = cloneNode(chain[index]);
+    if (index === chain.length - 1) {
+      clone.children = [cloneNode(newChild)];
+      clone.children[0].children = [];
+    } else {
+      clone.children = [buildLevel(index + 1)];
+    }
+    return clone;
+  }
+
+  return buildLevel(0);
 }
 
 function toggle(d) {
