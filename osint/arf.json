@@ -8709,7 +8709,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://autauga.capturecama.com/",
+                                                                            "description": "Autauga County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -8726,7 +8734,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://baldwincountyal.gov/department/revenue-commission",
+                                                                            "description": "Baldwin County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://baldwincountyal.gov/online-services/record-search",
+                                                                            "description": "Baldwin County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -8737,7 +8760,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://barbour.capturecama.com/",
+                                                                            "description": "Barbour County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Barbour/",
+                                                                            "description": "Barbour County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -8748,7 +8786,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.altags.com/Default.aspx",
+                                                                            "description": "Bibb County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Bibb/",
+                                                                            "description": "Bibb County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -8759,7 +8812,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.altags.com/Default.aspx",
+                                                                            "description": "Blount County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://blountrevenue.com/",
+                                                                            "description": "Blount County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -8770,7 +8838,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://bullock.capturecama.com/",
+                                                                            "description": "Bullock County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Bullock/",
+                                                                            "description": "Bullock County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -8781,7 +8864,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.altags.com/Default.aspx",
+                                                                            "description": "Butler County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Butler/",
+                                                                            "description": "Butler County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -8798,7 +8896,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.altags.com/Default.aspx",
+                                                                            "description": "Calhoun County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.calhouncounty.org/",
+                                                                            "description": "Calhoun County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -8809,7 +8922,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Chambers/",
+                                                                            "description": "Chambers County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -8820,7 +8941,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://cherokeepropertytax.com/",
+                                                                            "description": "Cherokee County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://isv.kcsgis.com/alcherokee/",
+                                                                            "description": "Cherokee County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -8831,7 +8967,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.altags.com/Default.aspx",
+                                                                            "description": "Chilton County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Chilton/",
+                                                                            "description": "Chilton County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -8842,7 +8993,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Choctaw/",
+                                                                            "description": "Choctaw County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -8853,7 +9012,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Clarke/",
+                                                                            "description": "Clarke County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -8864,7 +9031,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Clay/",
+                                                                            "description": "Clay County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -8875,7 +9050,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Cleburne/",
+                                                                            "description": "Cleburne County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -8886,7 +9069,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Coffee/",
+                                                                            "description": "Coffee County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -8897,7 +9088,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Colbert/",
+                                                                            "description": "Colbert County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -8908,7 +9107,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Conecuh/",
+                                                                            "description": "Conecuh County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -8919,7 +9126,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Coosa/",
+                                                                            "description": "Coosa County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -8930,7 +9145,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Covington/",
+                                                                            "description": "Covington County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Covington/",
+                                                                            "description": "Covington County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -8941,7 +9171,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Crenshaw/",
+                                                                            "description": "Crenshaw County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -8952,7 +9190,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Cullman/",
+                                                                            "description": "Cullman County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -8969,7 +9215,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Dale/",
+                                                                            "description": "Dale County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -8980,7 +9234,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Dallas/",
+                                                                            "description": "Dallas County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -8991,7 +9253,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://isv.kcsgis.com/aldek/",
+                                                                            "description": "DeKalb County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/DeKalb/",
+                                                                            "description": "DeKalb County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -9008,7 +9285,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Elmore/",
+                                                                            "description": "Elmore County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -9019,7 +9304,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://isv.kcsgis.com/alescambia/",
+                                                                            "description": "Escambia County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Escambia/",
+                                                                            "description": "Escambia County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -9030,7 +9330,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Etowah/",
+                                                                            "description": "Etowah County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -9047,7 +9355,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Fayette/",
+                                                                            "description": "Fayette County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -9058,7 +9374,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://isv.kcsgis.com/alfranklin/",
+                                                                            "description": "Franklin County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Franklin/",
+                                                                            "description": "Franklin County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -9075,7 +9406,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://geneva.capturecama.com/",
+                                                                            "description": "Geneva County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Geneva/",
+                                                                            "description": "Geneva County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -9086,7 +9432,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Greene/",
+                                                                            "description": "Greene County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -9103,7 +9457,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://isv.kcsgis.com/alhale/",
+                                                                            "description": "Hale County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Hale/",
+                                                                            "description": "Hale County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -9114,7 +9483,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://henryal.igridmaps.com/henryal/",
+                                                                            "description": "Henry County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Henry/",
+                                                                            "description": "Henry County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -9125,7 +9509,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://isv.kcsgis.com/alhouston/",
+                                                                            "description": "Houston County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.houstoncounty.org/revenue-commission",
+                                                                            "description": "Houston County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -9142,7 +9541,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://jacksonal.igridmaps.com/jacksonal/",
+                                                                            "description": "Jackson County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Jackson/",
+                                                                            "description": "Jackson County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -9153,7 +9567,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://eringcapture.jccal.org/caportal/",
+                                                                            "description": "Jefferson County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://jeffco-al.maps.arcgis.com/home/index.html",
+                                                                            "description": "Jefferson County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -9170,7 +9599,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Lamar/",
+                                                                            "description": "Lamar County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -9181,7 +9618,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.altags.com/",
+                                                                            "description": "Lauderdale County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://lauderdalecountyal.gov/",
+                                                                            "description": "Lauderdale County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -9192,7 +9644,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.lawrencecountyrevenue.com/",
+                                                                            "description": "Lawrence County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -9203,7 +9663,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.altags.com/",
+                                                                            "description": "Lee County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Lee/",
+                                                                            "description": "Lee County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -9214,7 +9689,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.limestonerevenue.net/",
+                                                                            "description": "Limestone County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -9225,7 +9708,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Lowndes/",
+                                                                            "description": "Lowndes County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -9242,7 +9733,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://macon.capturecama.com/",
+                                                                            "description": "Macon County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://maconal.maps.arcgis.com/",
+                                                                            "description": "Macon County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -9253,7 +9759,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://madisonproperty.countygovservices.com/",
+                                                                            "description": "Madison County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://isv.kcsgis.com/almadison/",
+                                                                            "description": "Madison County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -9264,7 +9785,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.altags.com/",
+                                                                            "description": "Marengo County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Marengo/",
+                                                                            "description": "Marengo County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -9275,7 +9811,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Marion/",
+                                                                            "description": "Marion County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -9286,7 +9830,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.marshallrc.org/",
+                                                                            "description": "Marshall County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -9297,7 +9849,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://mobile.capturecama.com/",
+                                                                            "description": "Mobile County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.mobilecopropertytax.com/",
+                                                                            "description": "Mobile County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -9308,7 +9875,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://monroe.capturecama.com/",
+                                                                            "description": "Monroe County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -9319,7 +9894,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://montgomery.capturecama.com/",
+                                                                            "description": "Montgomery County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -9330,7 +9913,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://morgan.capturecama.com/",
+                                                                            "description": "Morgan County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -9347,7 +9938,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Perry/",
+                                                                            "description": "Perry County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -9358,7 +9957,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://isv.kcsgis.com/alpickens/",
+                                                                            "description": "Pickens County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Pickens/",
+                                                                            "description": "Pickens County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -9369,7 +9983,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://pikeal.igridmaps.com/pikeal/",
+                                                                            "description": "Pike County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Pike/",
+                                                                            "description": "Pike County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -9386,7 +10015,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Randolph/",
+                                                                            "description": "Randolph County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -9397,7 +10034,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://russellal.igridmaps.com/russellal/",
+                                                                            "description": "Russell County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Russell/",
+                                                                            "description": "Russell County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -9414,7 +10066,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://ptc.shelbyal.com/",
+                                                                            "description": "Shelby County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://maps.shelbyal.com/",
+                                                                            "description": "Shelby County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -9425,7 +10092,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.ingproperty.com/",
+                                                                            "description": "St. Clair County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.stclairco.com/",
+                                                                            "description": "St. Clair County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -9436,7 +10118,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Sumter/",
+                                                                            "description": "Sumter County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -9453,7 +10143,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://isv.kcsgis.com/altalladega/",
+                                                                            "description": "Talladega County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Talladega/",
+                                                                            "description": "Talladega County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -9464,7 +10169,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.altags.com/",
+                                                                            "description": "Tallapoosa County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Tallapoosa/",
+                                                                            "description": "Tallapoosa County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -9475,7 +10195,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.altags.com/",
+                                                                            "description": "Tuscaloosa County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Tuscaloosa/",
+                                                                            "description": "Tuscaloosa County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -9492,7 +10227,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.walkercountyrevenue.com/",
+                                                                            "description": "Walker County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Walker/",
+                                                                            "description": "Walker County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -9503,7 +10253,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Washington/",
+                                                                            "description": "Washington County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -9514,7 +10272,22 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://wilcox.capturecama.com/",
+                                                                            "description": "Wilcox County assessor portal"
+                                                                        },
+                                                                        {
+                                                                            "name": "Assessor Parcel Search 2",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.alabamagis.com/Wilcox/",
+                                                                            "description": "Wilcox County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -9525,7 +10298,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://isv.kcsgis.com/alwinston/",
+                                                                            "description": "Winston County assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
