@@ -56210,7 +56210,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.co.adams.wa.gov/159/Assessor",
+                                                                            "description": "Adams County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -56221,7 +56229,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://co.asotin.wa.us/159/Assessor",
+                                                                            "description": "Asotin County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -56238,7 +56254,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://co.benton.wa.us/pView.aspx?catid=45&id=683",
+                                                                            "description": "Benton County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -56255,7 +56279,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://co.chelan.wa.us/assessor",
+                                                                            "description": "Chelan County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -56266,7 +56298,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://clallamcountywa.gov/157/Assessor",
+                                                                            "description": "Clallam County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -56277,7 +56317,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://clark.wa.gov/assessor",
+                                                                            "description": "Clark County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -56288,7 +56336,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://columbiaco.com/index.aspx?nid=15",
+                                                                            "description": "Columbia County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -56299,7 +56355,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.co.cowlitz.wa.us/123/Assessor",
+                                                                            "description": "Cowlitz County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -56316,7 +56380,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.douglascountywa.net/162/Assessor",
+                                                                            "description": "Douglas County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -56333,7 +56405,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.ferry-county.com/departments/assessor/index.php",
+                                                                            "description": "Ferry County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -56344,7 +56424,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.franklincountywa.gov/157/Assessor",
+                                                                            "description": "Franklin County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -56361,7 +56449,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.co.garfield.wa.us/assessor",
+                                                                            "description": "Garfield County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -56372,7 +56468,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.grantcountywa.gov/248/Assessor",
+                                                                            "description": "Grant County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -56383,7 +56487,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.co.grays-harbor.wa.us/government/assessor/index.php",
+                                                                            "description": "Grays Harbor County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -56400,7 +56512,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.islandcountywa.gov/158/Assessor",
+                                                                            "description": "Island County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -56417,7 +56537,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.co.jefferson.wa.us/151/Assessor",
+                                                                            "description": "Jefferson County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -56434,7 +56562,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://kingcounty.gov/en/dept/assessor",
+                                                                            "description": "King County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -56445,7 +56581,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.kitsap.gov/assessor/Pages/default.aspx",
+                                                                            "description": "Kitsap County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -56456,7 +56600,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.co.kittitas.wa.us/assessor/default.aspx",
+                                                                            "description": "Kittitas County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -56467,7 +56619,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.klickitatcounty.org/149/Assessor",
+                                                                            "description": "Klickitat County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -56484,7 +56644,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://lewiscountywa.gov/assessor",
+                                                                            "description": "Lewis County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -56495,7 +56663,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.co.lincoln.wa.us/assessor/",
+                                                                            "description": "Lincoln County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -56512,7 +56688,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://masoncountywa.gov/assessor/index.php",
+                                                                            "description": "Mason County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -56529,7 +56713,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://okanogancounty.org/government/assessor/index.php",
+                                                                            "description": "Okanogan County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -56546,7 +56738,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.co.pacific.wa.us/assessor/index.htm",
+                                                                            "description": "Pacific County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -56557,7 +56757,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.pendoreilleco.org/assessor",
+                                                                            "description": "Pend Oreille County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -56568,7 +56776,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.piercecountywa.gov/738/Tax-Assessment-Information",
+                                                                            "description": "Pierce County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -56585,7 +56801,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.sanjuanco.com/149/Assessor",
+                                                                            "description": "San Juan County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -56596,7 +56820,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://skagitcounty.net/Departments/Assessor/main.htm",
+                                                                            "description": "Skagit County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -56607,7 +56839,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.skamaniacounty.org/departments-offices/assessment-and-gis",
+                                                                            "description": "Skamania County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -56618,7 +56858,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://snohomishcountywa.gov/5167/Assessor",
+                                                                            "description": "Snohomish County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -56629,7 +56877,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.spokanecounty.org/219/Assessor",
+                                                                            "description": "Spokane County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -56640,7 +56896,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://stevenscountywa.gov/pview.aspx?catid=25&id=20835",
+                                                                            "description": "Stevens County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -56657,7 +56921,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.thurstoncountywa.gov/departments/assessor",
+                                                                            "description": "Thurston County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -56674,7 +56946,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.co.wahkiakum.wa.us/278/Assessor",
+                                                                            "description": "Wahkiakum County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -56685,7 +56965,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.co.walla-walla.wa.us/departments/assessor/index.php",
+                                                                            "description": "Walla Walla County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -56696,7 +56984,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.co.whatcom.wa.us/177/Assessor",
+                                                                            "description": "Whatcom County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -56707,7 +57003,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.whitmancounty.org/157/Assessor",
+                                                                            "description": "Whitman County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -56724,7 +57028,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.yakimacounty.us/218/Assessors-Office",
+                                                                            "description": "Yakima County assessor and parcel search portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
