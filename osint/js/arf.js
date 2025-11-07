@@ -82,7 +82,7 @@ function update(source) {
   var nodeEnter = node.enter().append("svg:g")
       .attr("class", "node")
       .attr("transform", function(d) { return "translate(" + source.y0 + "," + source.x0 + ")"; })
-      .on("click", function(d) { toggle(d); update(d); centerNode(d); });
+      .on("click", handleNodeClick);
 
   nodeEnter.append("svg:circle")
       .attr("r", 1e-6)
@@ -180,6 +180,22 @@ function centerNode(source) {
 
 function zoomed() {
   viewport.attr("transform", "translate(" + d3.event.translate[0] + "," + d3.event.translate[1] + ") scale(" + d3.event.scale + ")");
+}
+
+function handleNodeClick(d) {
+  if (d.type === 'link' && d.url) {
+    if (typeof window !== 'undefined' && window.open) {
+      window.open(d.url, '_blank');
+    }
+    if (d3.event) {
+      d3.event.stopPropagation();
+    }
+    return;
+  }
+
+  toggle(d);
+  update(d);
+  centerNode(d);
 }
 
 function resizeCanvas() {
