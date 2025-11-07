@@ -1,6 +1,8 @@
 var margin = [20, 120, 20, 140],
     width = 1280 - margin[1] - margin[3],
     height = 800 - margin[0] - margin[2],
+    viewerWidth = width + margin[1] + margin[3],
+    viewerHeight = height + margin[0] + margin[2],
     i = 0,
     duration = 1250,
     root;
@@ -11,10 +13,18 @@ var tree = d3.layout.tree()
 var diagonal = d3.svg.diagonal()
     .projection(function(d) { return [d.y, d.x]; });
 
-var vis = d3.select("#body").append("svg:svg")
-    .attr("width", width + margin[1] + margin[3])
-    .attr("height", height + margin[0] + margin[2])
-  .append("svg:g")
+var zoom = d3.behavior.zoom()
+    .scaleExtent([0.4, 2])
+    .on("zoom", zoomed);
+
+var svg = d3.select("#body").append("svg:svg")
+    .attr("width", viewerWidth)
+    .attr("height", viewerHeight)
+    .call(zoom);
+
+var viewport = svg.append("svg:g");
+
+var vis = viewport.append("svg:g")
     .attr("transform", "translate(" + margin[3] + "," + margin[0] + ")");
 
 d3.json("arf.json", function(json) {
@@ -38,6 +48,7 @@ d3.json("arf.json", function(json) {
   } */
   root.children.forEach(collapse);
   update(root);
+  centerNode(root);
 });
 
 function update(source) {
@@ -57,7 +68,7 @@ function update(source) {
   var nodeEnter = node.enter().append("svg:g")
       .attr("class", "node")
       .attr("transform", function(d) { return "translate(" + source.y0 + "," + source.x0 + ")"; })
-      .on("click", function(d) { toggle(d); update(d); });
+      .on("click", function(d) { toggle(d); update(d); centerNode(d); });
 
   nodeEnter.append("svg:circle")
       .attr("r", 1e-6)
@@ -137,6 +148,21 @@ function update(source) {
     d.x0 = d.x;
     d.y0 = d.y;
   });
+}
+
+function centerNode(source) {
+  var scale = zoom.scale();
+  var x = -((source.y || 0) + margin[3]) * scale + viewerWidth / 2;
+  var y = -((source.x || 0) + margin[0]) * scale + viewerHeight / 2;
+
+  zoom.translate([x, y]);
+  viewport.transition()
+      .duration(duration)
+      .attr("transform", "translate(" + x + "," + y + ") scale(" + scale + ")");
+}
+
+function zoomed() {
+  viewport.attr("transform", "translate(" + d3.event.translate + ") scale(" + d3.event.scale + ")");
 }
 
 // Toggle children.
