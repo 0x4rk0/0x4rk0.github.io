@@ -168,6 +168,12 @@ body {
   margin-top: 8px;
 }
 
+path.link {
+  fill: none;
+  stroke: var(--link-stroke);
+  stroke-width: 1px;
+}
+
 @media (max-width: 768px) {
   body {
     padding: 0 6px 20px;

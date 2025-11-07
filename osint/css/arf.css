@@ -9,6 +9,7 @@
   --legend-bg: #ffffff;
   --node-outline: steelblue;
   --node-fill: #ffffff;
+  --link-stroke: #0b1120;
 }
 
 [data-theme='dark'] {
@@ -22,6 +23,7 @@
   --legend-bg: #1e293b;
   --node-outline: #93c5fd;
   --node-fill: #0f172a;
+  --link-stroke: #94a3b8;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -36,6 +38,7 @@
     --legend-bg: #1e293b;
     --node-outline: #93c5fd;
     --node-fill: #0f172a;
+    --link-stroke: #94a3b8;
   }
 }
 
@@ -134,7 +137,7 @@ body {
 
 path.link {
   fill: none;
-  stroke: #ccc;
+  stroke: var(--link-stroke);
   stroke-width: 1px;
 }
 
