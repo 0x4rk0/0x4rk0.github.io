@@ -25,11 +25,7 @@ jobs:
 
       - name: Sync osint directory
         run: |
-          if [ ! -d /tmp/osint-tools/osint ]; then
-            echo "osint directory not found in osint-tools repo. Skipping sync."
-            exit 0
-          fi
-          rsync -a --delete /tmp/osint-tools/osint/ osint/
+          rsync -a --delete --exclude='.git/' /tmp/osint-tools/ osint/
           if git status --porcelain osint | grep -q .; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
