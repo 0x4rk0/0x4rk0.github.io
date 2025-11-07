@@ -7,7 +7,9 @@ var margin = [20, 120, 20, 140],
     verticalSpacing = 1.35,
     i = 0,
     duration = 1250,
-    root;
+    root,
+    searchInput = d3.select('#search-input'),
+    searchResultsContainer = d3.select('#search-results');
 
 var tree = d3.layout.tree()
     .size([height, width])
@@ -58,8 +60,10 @@ d3.json("arf.json", function(json) {
     }
   } */
   root.children.forEach(collapse);
+  assignParents(root, null);
   update(root);
   centerNode(root);
+  initializeSearch();
 });
 
 function update(source) {
@@ -216,6 +220,120 @@ function getViewportDimension(base, axis) {
       (axis === 'width' ? document.documentElement.clientWidth : document.documentElement.clientHeight) : 0;
 
   return Math.max(base, inner || 0, docSize || 0);
+}
+
+function assignParents(node, parent) {
+  if (!node) {
+    return;
+  }
+  node.parentRef = parent;
+  var children = (node.children || []).concat(node._children || []);
+  children.forEach(function(child) {
+    assignParents(child, node);
+  });
+}
+
+function initializeSearch() {
+  if (!searchInput || searchInput.empty() || !searchResultsContainer || searchResultsContainer.empty()) {
+    return;
+  }
+
+  renderSearchResults('');
+  searchInput.on('input', function() {
+    renderSearchResults(this.value || '');
+  });
+}
+
+function renderSearchResults(term) {
+  if (!searchResultsContainer || searchResultsContainer.empty() || !root) {
+    return;
+  }
+
+  searchResultsContainer.selectAll('.search-empty').remove();
+
+  var trimmed = term ? term.trim() : '';
+  if (!trimmed) {
+    searchResultsContainer.selectAll('.search-result').remove();
+    searchResultsContainer.append('div')
+        .attr('class', 'search-empty')
+        .text('Type to search the tree');
+    return;
+  }
+
+  var matches = searchTree(trimmed.toLowerCase());
+  if (!matches.length) {
+    searchResultsContainer.selectAll('.search-result').remove();
+    searchResultsContainer.append('div')
+        .attr('class', 'search-empty')
+        .text('No matches found');
+    return;
+  }
+
+  var rows = searchResultsContainer.selectAll('.search-result')
+      .data(matches, function(d) { return d.pathString; });
+
+  rows.enter().append('div')
+      .attr('class', 'search-result');
+
+  rows.text(function(d) { return d.pathString; })
+      .on('click', function(d) { focusSearchResult(d); });
+
+  rows.exit().remove();
+}
+
+function searchTree(term) {
+  var matches = [];
+  if (!root || !term) {
+    return matches;
+  }
+
+  function recurse(node, path) {
+    if (!node) {
+      return;
+    }
+    var label = node.name || '';
+    var nextPath = path.concat(label);
+    if (label.toLowerCase().indexOf(term) !== -1) {
+      matches.push({
+        node: node,
+        path: nextPath,
+        pathString: nextPath.join(' > ')
+      });
+    }
+    var children = (node.children || []).concat(node._children || []);
+    children.forEach(function(child) {
+      recurse(child, nextPath);
+    });
+  }
+
+  recurse(root, []);
+  return matches;
+}
+
+function focusSearchResult(match) {
+  if (!match || !match.node) {
+    return;
+  }
+
+  revealPath(match.node);
+  update(match.node);
+  centerNode(match.node);
+}
+
+function revealPath(node) {
+  var ancestors = [];
+  var current = node;
+  while (current) {
+    ancestors.push(current);
+    current = current.parentRef;
+  }
+
+  ancestors.reverse().forEach(function(ancestor) {
+    if (ancestor._children) {
+      ancestor.children = ancestor._children;
+      ancestor._children = null;
+    }
+  });
 }
 
 // Toggle children.
