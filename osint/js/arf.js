@@ -1,20 +1,23 @@
 var margin = [20, 120, 20, 140],
     width = 1280 - margin[1] - margin[3],
     height = 800 - margin[0] - margin[2],
-    viewerWidth = width + margin[1] + margin[3],
-    viewerHeight = height + margin[0] + margin[2],
+    viewerWidth = getViewportDimension(width + margin[1] + margin[3], 'width'),
+    viewerHeight = getViewportDimension(height + margin[0] + margin[2], 'height'),
     i = 0,
     duration = 1250,
     root;
 
 var tree = d3.layout.tree()
-    .size([height, width]);
+    .size([height, width])
+    .separation(function(a, b) {
+      return (a.parent === b.parent ? 1.4 : 1.8);
+    });
 
 var diagonal = d3.svg.diagonal()
     .projection(function(d) { return [d.y, d.x]; });
 
 var zoom = d3.behavior.zoom()
-    .scaleExtent([0.4, 2])
+    .scaleExtent([0.2, 4])
     .on("zoom", zoomed);
 
 var svg = d3.select("#body").append("svg:svg")
@@ -26,6 +29,12 @@ var viewport = svg.append("svg:g");
 
 var vis = viewport.append("svg:g")
     .attr("transform", "translate(" + margin[3] + "," + margin[0] + ")");
+
+resizeCanvas();
+
+if (typeof window !== 'undefined') {
+  d3.select(window).on('resize', resizeCanvas);
+}
 
 d3.json("arf.json", function(json) {
   root = json;
@@ -58,7 +67,7 @@ function update(source) {
   var nodes = tree.nodes(root).reverse();
 
   // Normalize for fixed-depth.
-  nodes.forEach(function(d) { d.y = d.depth * 180; });
+  nodes.forEach(function(d) { d.y = d.depth * 220; });
 
   // Update the nodes…
   var node = vis.selectAll("g.node")
@@ -152,8 +161,11 @@ function update(source) {
 
 function centerNode(source) {
   var scale = zoom.scale();
-  var x = -((source.y || 0) + margin[3]) * scale + viewerWidth / 2;
-  var y = -((source.x || 0) + margin[0]) * scale + viewerHeight / 2;
+  var x = -(source.y0 || source.y || 0);
+  var y = -(source.x0 || source.x || 0);
+
+  x = x * scale + viewerWidth / 2;
+  y = y * scale + viewerHeight / 2;
 
   zoom.translate([x, y]);
   viewport.transition()
@@ -162,7 +174,27 @@ function centerNode(source) {
 }
 
 function zoomed() {
-  viewport.attr("transform", "translate(" + d3.event.translate + ") scale(" + d3.event.scale + ")");
+  viewport.attr("transform", "translate(" + d3.event.translate[0] + "," + d3.event.translate[1] + ") scale(" + d3.event.scale + ")");
+}
+
+function resizeCanvas() {
+  viewerWidth = getViewportDimension(width + margin[1] + margin[3], 'width');
+  viewerHeight = getViewportDimension(height + margin[0] + margin[2], 'height');
+
+  svg.attr("width", viewerWidth).attr("height", viewerHeight);
+
+  if (root) {
+    centerNode(root);
+  }
+}
+
+function getViewportDimension(base, axis) {
+  var win = typeof window !== 'undefined' ? window : null;
+  var inner = win ? (axis === 'width' ? win.innerWidth : win.innerHeight) : 0;
+  var docSize = (typeof document !== 'undefined' && document.documentElement) ?
+      (axis === 'width' ? document.documentElement.clientWidth : document.documentElement.clientHeight) : 0;
+
+  return Math.max(base, inner || 0, docSize || 0);
 }
 
 // Toggle children.
