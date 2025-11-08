@@ -26,9 +26,13 @@
     }
   </style>
   </head>
-  <body>
+  <body class="theme-light">
+    <button type="button" class="theme-toggle" id="themeToggle">Switch to semi dark mode</button>
     <div id="header">
       <h1>cody bernardy</h1>
+      <nav id="site-nav">
+        <a href="/osint">osint tools</a>
+      </nav>
     </div>
 
     <div id="content">
@@ -37,6 +41,7 @@
         <ul>
           <li><a href="mailto:cody@bernardy.biz">email</a></li>
           <li><a href="http://linkedin.com/in/codybernardy/">linkedin</a></li>
+          <li><a href="/osint">osint tools</a></li>
           <li><a href="https://youtube.com/c/0x4rko">youtube</a></li>
              
         </ul>
@@ -98,6 +103,72 @@ This historic election follows the conclave's discernment of the Holy Spirit's g
        </div>
 
 <script async defer src="https://0x4rko.github.io/latest.js"></script>
+<script type="text/javascript">
+(function () {
+  var themes = {
+    light: 'theme-light',
+    semi: 'theme-semidark'
+  };
+  var storageKey = 'siteTheme';
+  var toggle = document.getElementById('themeToggle');
+  var body = document.body;
+
+  if (!toggle || !body.classList) {
+    return;
+  }
+
+  function setButtonLabel(themeClass) {
+    if (themeClass === themes.semi) {
+      toggle.textContent = 'Switch to light mode';
+    } else {
+      toggle.textContent = 'Switch to semi dark mode';
+    }
+  }
+
+  function applyTheme(themeClass) {
+    body.classList.remove(themes.light);
+    body.classList.remove(themes.semi);
+    body.classList.add(themeClass);
+    setButtonLabel(themeClass);
+  }
+
+  function getStoredTheme() {
+    try {
+      return window.localStorage.getItem(storageKey);
+    } catch (err) {
+      return null;
+    }
+  }
+
+  function storeTheme(themeClass) {
+    try {
+      window.localStorage.setItem(storageKey, themeClass);
+    } catch (err) {
+      return;
+    }
+  }
+
+  function resolveInitialTheme() {
+    var stored = getStoredTheme();
+    if (stored === themes.light || stored === themes.semi) {
+      return stored;
+    }
+    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+      return themes.semi;
+    }
+    return themes.light;
+  }
+
+  var activeTheme = resolveInitialTheme();
+  applyTheme(activeTheme);
+
+  toggle.addEventListener('click', function () {
+    activeTheme = activeTheme === themes.semi ? themes.light : themes.semi;
+    applyTheme(activeTheme);
+    storeTheme(activeTheme);
+  });
+})();
+</script>
 <noscript><img src="https://0x4rko.github.io/noscript.gif" alt=""/></noscript>
   </body>
 </html>
