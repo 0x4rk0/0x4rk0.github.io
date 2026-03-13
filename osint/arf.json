@@ -10365,7 +10365,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/search/",
+                                                                            "description": "Aleutians East Borough assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -10376,18 +10384,34 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/search/",
+                                                                            "description": "Aleutians West Census Area assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
                                                         {
-                                                            "name": "Anchorage Municipality",
+                                                            "name": "Anchorage (Municipality of Anchorage)",
                                                             "type": "folder",
                                                             "children": [
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://property.muni.org/",
+                                                                            "description": "Anchorage (Municipality of Anchorage) assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -10404,7 +10428,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/search/",
+                                                                            "description": "Bethel Census Area assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -10415,7 +10447,59 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://experience.arcgis.com/experience/4255573aa3e1406799b625cbe85e4352",
+                                                                            "description": "Bristol Bay Borough assessor portal"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "C",
+                                                    "type": "folder",
+                                                    "children": [
+                                                        {
+                                                            "name": "Chugach Census Area",
+                                                            "type": "folder",
+                                                            "children": [
+                                                                {
+                                                                    "name": "Parcel Information",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/search/",
+                                                                            "description": "Chugach Census Area assessor portal"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "Copper River Census Area",
+                                                            "type": "folder",
+                                                            "children": [
+                                                                {
+                                                                    "name": "Parcel Information",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/search/",
+                                                                            "description": "Copper River Census Area assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -10432,7 +10516,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/search/",
+                                                                            "description": "Denali Borough assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -10443,7 +10535,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/search/",
+                                                                            "description": "Dillingham Census Area assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -10460,7 +10560,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://propertysearch.fnsb.gov/",
+                                                                            "description": "Fairbanks North Star Borough assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -10477,7 +10585,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.hainesalaska.gov/lands/page/haines-borough-parcel-viewer",
+                                                                            "description": "Haines Borough assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -10488,7 +10604,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/search/",
+                                                                            "description": "Hoonah-Angoon Census Area assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -10505,7 +10629,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "http://epv.juneau.org/",
+                                                                            "description": "Juneau City and Borough assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -10522,7 +10654,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://kpb.publicaccessnow.com/Assessing/PropertySearch.aspx",
+                                                                            "description": "Kenai Peninsula Borough assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -10533,7 +10673,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.kgbak.us/Property-Search",
+                                                                            "description": "Ketchikan Gateway Borough assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -10544,7 +10692,34 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "http://propaccess.kodiakak.us/clientdb/",
+                                                                            "description": "Kodiak Island Borough assessor portal"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "name": "Kusilvak Census Area",
+                                                            "type": "folder",
+                                                            "children": [
+                                                                {
+                                                                    "name": "Parcel Information",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/search/",
+                                                                            "description": "Kusilvak Census Area assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -10561,7 +10736,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/search/",
+                                                                            "description": "Lake and Peninsula Borough assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -10578,7 +10761,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://myproperty.matsugov.us/",
+                                                                            "description": "Matanuska-Susitna Borough assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -10595,7 +10786,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/search/",
+                                                                            "description": "Nome Census Area assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -10606,7 +10805,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://gis-public.north-slope.org/portal/apps/webappviewer/index.html?id=7e8005db548746d3828e05f35a46ee0b",
+                                                                            "description": "North Slope Borough assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -10617,7 +10824,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/search/",
+                                                                            "description": "Northwest Arctic Borough assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -10634,7 +10849,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://petersburgak.maps.arcgis.com/apps/webappviewer/index.html?id=0a87e0c211184d80a2434df9d72e4052",
+                                                                            "description": "Petersburg Borough assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -10645,7 +10868,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/search/",
+                                                                            "description": "Prince of Wales-Hyder Census Area assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -10662,18 +10893,34 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "http://www.mainstreetmaps.com/ak/sitka/public.asp",
+                                                                            "description": "Sitka City and Borough assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
                                                         {
-                                                            "name": "Skagway Municipality",
+                                                            "name": "Skagway Borough",
                                                             "type": "folder",
                                                             "children": [
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://geohub-skagway.hub.arcgis.com/",
+                                                                            "description": "Skagway Borough assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -10684,24 +10931,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
-                                                                }
-                                                            ]
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "name": "V",
-                                                    "type": "folder",
-                                                    "children": [
-                                                        {
-                                                            "name": "Valdez-Cordova Census Area",
-                                                            "type": "folder",
-                                                            "children": [
-                                                                {
-                                                                    "name": "Parcel Information",
-                                                                    "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/search/",
+                                                                            "description": "Southeast Fairbanks Census Area assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -10712,24 +10950,21 @@
                                                     "type": "folder",
                                                     "children": [
                                                         {
-                                                            "name": "Wade Hampton Census Area",
-                                                            "type": "folder",
-                                                            "children": [
-                                                                {
-                                                                    "name": "Parcel Information",
-                                                                    "type": "folder",
-                                                                    "children": []
-                                                                }
-                                                            ]
-                                                        },
-                                                        {
                                                             "name": "Wrangell City and Borough",
                                                             "type": "folder",
                                                             "children": [
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://wrangell.maps.arcgis.com/",
+                                                                            "description": "Wrangell City and Borough assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -10746,7 +10981,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://cby.maps.arcgis.com/",
+                                                                            "description": "Yakutat City and Borough assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -10757,7 +11000,15 @@
                                                                 {
                                                                     "name": "Parcel Information",
                                                                     "type": "folder",
-                                                                    "children": []
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Assessor Parcel Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/search/",
+                                                                            "description": "Yukon-Koyukuk Census Area assessor portal"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
