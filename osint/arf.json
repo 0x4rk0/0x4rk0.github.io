@@ -13138,6 +13138,53 @@
                                                                             "description": "Aleutians East Borough assessor portal"
                                                                         }
                                                                     ]
+                                                                },
+                                                                {
+                                                                    "name": "Court Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 Third Judicial District (Dillingham)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/3rddistrict/dillingham.htm",
+                                                                            "description": "Superior and District Court serving the Aleutians East Borough area."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska CourtView \u2013 Statewide Case Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://records.courts.alaska.gov/",
+                                                                            "description": "Alaska's public online court record search covering all trial courts statewide."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Property Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Aleutians East Borough Assessor",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.aleutianseast.org/",
+                                                                            "description": "Official Aleutians East Borough website; Assessor's Office handles property assessment and records."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office \u2013 Online Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/searchRPS.cfm",
+                                                                            "description": "Alaska Department of Natural Resources statewide deed, mortgage, and land record search portal."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/",
+                                                                            "description": "Official Alaska Recorder's Office; handles deed recording and real property instruments for the entire state."
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -13157,6 +13204,46 @@
                                                                             "description": "Aleutians West Census Area assessor portal"
                                                                         }
                                                                     ]
+                                                                },
+                                                                {
+                                                                    "name": "Court Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 Third Judicial District (Unalaska)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/3rddistrict/unalaska.htm",
+                                                                            "description": "District Court magistrate station serving the Aleutians West Census Area (Dutch Harbor/Unalaska)."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska CourtView \u2013 Statewide Case Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://records.courts.alaska.gov/",
+                                                                            "description": "Alaska's public online court record search covering all trial courts statewide."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Property Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office \u2013 Online Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/searchRPS.cfm",
+                                                                            "description": "Alaska Department of Natural Resources statewide deed, mortgage, and land record search portal."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/",
+                                                                            "description": "Official Alaska Recorder's Office; handles deed recording and real property instruments for the entire state."
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -13174,6 +13261,60 @@
                                                                             "children": [],
                                                                             "url": "https://property.muni.org/",
                                                                             "description": "Anchorage (Municipality of Anchorage) assessor portal"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Court Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 Third Judicial District (Anchorage)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/3rddistrict/anchorage.htm",
+                                                                            "description": "Superior Court and District Court for the Municipality of Anchorage."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska CourtView \u2013 Statewide Case Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://records.courts.alaska.gov/",
+                                                                            "description": "Alaska's public online court record search covering all trial courts statewide."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Property Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Municipality of Anchorage \u2013 Property Assessment",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.muni.org/departments/finance/assessor/pages/default.aspx",
+                                                                            "description": "Official Anchorage Assessor's Office for property assessment and tax records."
+                                                                        },
+                                                                        {
+                                                                            "name": "Anchorage Property Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://mappingandassessment.muni.org/",
+                                                                            "description": "Anchorage online mapping and property assessment search portal."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office \u2013 Online Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/searchRPS.cfm",
+                                                                            "description": "Alaska Department of Natural Resources statewide deed, mortgage, and land record search portal."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/",
+                                                                            "description": "Official Alaska Recorder's Office; handles deed recording and real property instruments for the entire state."
                                                                         }
                                                                     ]
                                                                 }
@@ -13201,6 +13342,46 @@
                                                                             "description": "Bethel Census Area assessor portal"
                                                                         }
                                                                     ]
+                                                                },
+                                                                {
+                                                                    "name": "Court Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 Second Judicial District (Bethel)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/2nddistrict/bethel.htm",
+                                                                            "description": "Superior Court and District Court serving the Bethel Census Area."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska CourtView \u2013 Statewide Case Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://records.courts.alaska.gov/",
+                                                                            "description": "Alaska's public online court record search covering all trial courts statewide."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Property Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office \u2013 Online Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/searchRPS.cfm",
+                                                                            "description": "Alaska Department of Natural Resources statewide deed, mortgage, and land record search portal."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/",
+                                                                            "description": "Official Alaska Recorder's Office; handles deed recording and real property instruments for the entire state."
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -13218,6 +13399,53 @@
                                                                             "children": [],
                                                                             "url": "https://experience.arcgis.com/experience/4255573aa3e1406799b625cbe85e4352",
                                                                             "description": "Bristol Bay Borough assessor portal"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Court Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 Third Judicial District (Dillingham)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/3rddistrict/dillingham.htm",
+                                                                            "description": "Superior Court and District Court serving the Bristol Bay Borough area."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska CourtView \u2013 Statewide Case Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://records.courts.alaska.gov/",
+                                                                            "description": "Alaska's public online court record search covering all trial courts statewide."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Property Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Bristol Bay Borough",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.bristolbayborough.org/",
+                                                                            "description": "Official Bristol Bay Borough website; borough office handles property assessment records."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office \u2013 Online Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/searchRPS.cfm",
+                                                                            "description": "Alaska Department of Natural Resources statewide deed, mortgage, and land record search portal."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/",
+                                                                            "description": "Official Alaska Recorder's Office; handles deed recording and real property instruments for the entire state."
                                                                         }
                                                                     ]
                                                                 }
@@ -13245,6 +13473,46 @@
                                                                             "description": "Chugach Census Area assessor portal"
                                                                         }
                                                                     ]
+                                                                },
+                                                                {
+                                                                    "name": "Court Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 Third Judicial District (Valdez)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/3rddistrict/valdez.htm",
+                                                                            "description": "Superior Court and District Court serving the Chugach Census Area."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska CourtView \u2013 Statewide Case Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://records.courts.alaska.gov/",
+                                                                            "description": "Alaska's public online court record search covering all trial courts statewide."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Property Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office \u2013 Online Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/searchRPS.cfm",
+                                                                            "description": "Alaska Department of Natural Resources statewide deed, mortgage, and land record search portal."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/",
+                                                                            "description": "Official Alaska Recorder's Office; handles deed recording and real property instruments for the entire state."
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -13262,6 +13530,46 @@
                                                                             "children": [],
                                                                             "url": "https://dnr.alaska.gov/ssd/recoff/search/",
                                                                             "description": "Copper River Census Area assessor portal"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Court Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 Third Judicial District (Glennallen)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/3rddistrict/glennallen.htm",
+                                                                            "description": "District Court magistrate station serving the Copper River Census Area."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska CourtView \u2013 Statewide Case Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://records.courts.alaska.gov/",
+                                                                            "description": "Alaska's public online court record search covering all trial courts statewide."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Property Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office \u2013 Online Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/searchRPS.cfm",
+                                                                            "description": "Alaska Department of Natural Resources statewide deed, mortgage, and land record search portal."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/",
+                                                                            "description": "Official Alaska Recorder's Office; handles deed recording and real property instruments for the entire state."
                                                                         }
                                                                     ]
                                                                 }
@@ -13289,6 +13597,60 @@
                                                                             "description": "Denali Borough assessor portal"
                                                                         }
                                                                     ]
+                                                                },
+                                                                {
+                                                                    "name": "Court Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 Fourth Judicial District (Nenana)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/4thdistrict/nenana.htm",
+                                                                            "description": "District Court magistrate station serving the Denali Borough."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 Fourth Judicial District (Fairbanks)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/4thdistrict/fairbanks.htm",
+                                                                            "description": "Superior Court for the Fourth Judicial District, serving Denali Borough."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska CourtView \u2013 Statewide Case Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://records.courts.alaska.gov/",
+                                                                            "description": "Alaska's public online court record search covering all trial courts statewide."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Property Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Denali Borough Assessor",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.denaliborough.org/assessor",
+                                                                            "description": "Official Denali Borough Assessor's Office for property assessment and records."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office \u2013 Online Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/searchRPS.cfm",
+                                                                            "description": "Alaska Department of Natural Resources statewide deed, mortgage, and land record search portal."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/",
+                                                                            "description": "Official Alaska Recorder's Office; handles deed recording and real property instruments for the entire state."
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -13306,6 +13668,46 @@
                                                                             "children": [],
                                                                             "url": "https://dnr.alaska.gov/ssd/recoff/search/",
                                                                             "description": "Dillingham Census Area assessor portal"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Court Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 Third Judicial District (Dillingham)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/3rddistrict/dillingham.htm",
+                                                                            "description": "Superior Court and District Court serving the Dillingham Census Area."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska CourtView \u2013 Statewide Case Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://records.courts.alaska.gov/",
+                                                                            "description": "Alaska's public online court record search covering all trial courts statewide."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Property Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office \u2013 Online Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/searchRPS.cfm",
+                                                                            "description": "Alaska Department of Natural Resources statewide deed, mortgage, and land record search portal."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/",
+                                                                            "description": "Official Alaska Recorder's Office; handles deed recording and real property instruments for the entire state."
                                                                         }
                                                                     ]
                                                                 }
@@ -13333,6 +13735,60 @@
                                                                             "description": "Fairbanks North Star Borough assessor portal"
                                                                         }
                                                                     ]
+                                                                },
+                                                                {
+                                                                    "name": "Court Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 Fourth Judicial District (Fairbanks)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/4thdistrict/fairbanks.htm",
+                                                                            "description": "Superior Court and District Court for the Fairbanks North Star Borough."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska CourtView \u2013 Statewide Case Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://records.courts.alaska.gov/",
+                                                                            "description": "Alaska's public online court record search covering all trial courts statewide."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Property Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Fairbanks North Star Borough Assessor",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.fnsb.gov/1162/Assessing",
+                                                                            "description": "Official FNSB Assessing Department for property assessment and tax records."
+                                                                        },
+                                                                        {
+                                                                            "name": "FNSB Property Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.fnsb.gov/property",
+                                                                            "description": "Fairbanks North Star Borough online property information and parcel search."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office \u2013 Online Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/searchRPS.cfm",
+                                                                            "description": "Alaska Department of Natural Resources statewide deed, mortgage, and land record search portal."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/",
+                                                                            "description": "Official Alaska Recorder's Office; handles deed recording and real property instruments for the entire state."
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -13358,6 +13814,60 @@
                                                                             "description": "Haines Borough assessor portal"
                                                                         }
                                                                     ]
+                                                                },
+                                                                {
+                                                                    "name": "Court Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 First Judicial District (Haines)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/1stdistrict/haines.htm",
+                                                                            "description": "District Court magistrate station serving Haines Borough."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 First Judicial District (Juneau)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/1stdistrict/juneau.htm",
+                                                                            "description": "Superior Court for the First Judicial District serving Haines Borough."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska CourtView \u2013 Statewide Case Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://records.courts.alaska.gov/",
+                                                                            "description": "Alaska's public online court record search covering all trial courts statewide."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Property Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Haines Borough Assessor",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.hainesalaska.gov/government/departments/assessor",
+                                                                            "description": "Official Haines Borough Assessor's Office for property assessment and records."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office \u2013 Online Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/searchRPS.cfm",
+                                                                            "description": "Alaska Department of Natural Resources statewide deed, mortgage, and land record search portal."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/",
+                                                                            "description": "Official Alaska Recorder's Office; handles deed recording and real property instruments for the entire state."
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -13375,6 +13885,46 @@
                                                                             "children": [],
                                                                             "url": "https://dnr.alaska.gov/ssd/recoff/search/",
                                                                             "description": "Hoonah-Angoon Census Area assessor portal"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Court Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 First Judicial District (Juneau)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/1stdistrict/juneau.htm",
+                                                                            "description": "Superior Court and District Court serving the Hoonah-Angoon Census Area."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska CourtView \u2013 Statewide Case Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://records.courts.alaska.gov/",
+                                                                            "description": "Alaska's public online court record search covering all trial courts statewide."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Property Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office \u2013 Online Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/searchRPS.cfm",
+                                                                            "description": "Alaska Department of Natural Resources statewide deed, mortgage, and land record search portal."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/",
+                                                                            "description": "Official Alaska Recorder's Office; handles deed recording and real property instruments for the entire state."
                                                                         }
                                                                     ]
                                                                 }
@@ -13402,6 +13952,60 @@
                                                                             "description": "Juneau City and Borough assessor portal"
                                                                         }
                                                                     ]
+                                                                },
+                                                                {
+                                                                    "name": "Court Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 First Judicial District (Juneau)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/1stdistrict/juneau.htm",
+                                                                            "description": "Superior Court and District Court for the City and Borough of Juneau."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska CourtView \u2013 Statewide Case Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://records.courts.alaska.gov/",
+                                                                            "description": "Alaska's public online court record search covering all trial courts statewide."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Property Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "City and Borough of Juneau Assessor",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://juneau.org/finance/assessor",
+                                                                            "description": "Official CBJ Assessor's Office for property assessment and real property records."
+                                                                        },
+                                                                        {
+                                                                            "name": "CBJ Property Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://juneaugis.maps.arcgis.com/",
+                                                                            "description": "City and Borough of Juneau online property and parcel search via GIS."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office \u2013 Online Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/searchRPS.cfm",
+                                                                            "description": "Alaska Department of Natural Resources statewide deed, mortgage, and land record search portal."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/",
+                                                                            "description": "Official Alaska Recorder's Office; handles deed recording and real property instruments for the entire state."
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -13427,6 +14031,67 @@
                                                                             "description": "Kenai Peninsula Borough assessor portal"
                                                                         }
                                                                     ]
+                                                                },
+                                                                {
+                                                                    "name": "Court Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 Third Judicial District (Kenai)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/3rddistrict/kenai.htm",
+                                                                            "description": "Superior Court and District Court for the Kenai Peninsula Borough."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 Third Judicial District (Homer)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/3rddistrict/homer.htm",
+                                                                            "description": "District Court serving the southern Kenai Peninsula Borough."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska CourtView \u2013 Statewide Case Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://records.courts.alaska.gov/",
+                                                                            "description": "Alaska's public online court record search covering all trial courts statewide."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Property Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Kenai Peninsula Borough Assessor",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.borough.kenai.ak.us/assessing-department",
+                                                                            "description": "Official Kenai Peninsula Borough Assessing Department for property assessment and records."
+                                                                        },
+                                                                        {
+                                                                            "name": "KPB Property Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.borough.kenai.ak.us/parcel-search",
+                                                                            "description": "Kenai Peninsula Borough online parcel and property search portal."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office \u2013 Online Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/searchRPS.cfm",
+                                                                            "description": "Alaska Department of Natural Resources statewide deed, mortgage, and land record search portal."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/",
+                                                                            "description": "Official Alaska Recorder's Office; handles deed recording and real property instruments for the entire state."
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -13444,6 +14109,53 @@
                                                                             "children": [],
                                                                             "url": "https://www.kgbak.us/Property-Search",
                                                                             "description": "Ketchikan Gateway Borough assessor portal"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Court Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 First Judicial District (Ketchikan)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/1stdistrict/ketchikan.htm",
+                                                                            "description": "Superior Court and District Court for the Ketchikan Gateway Borough."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska CourtView \u2013 Statewide Case Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://records.courts.alaska.gov/",
+                                                                            "description": "Alaska's public online court record search covering all trial courts statewide."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Property Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Ketchikan Gateway Borough Assessor",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.borough.ketchikan.ak.us/221/Assessor",
+                                                                            "description": "Official KGB Assessor's Office for property assessment and real property records."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office \u2013 Online Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/searchRPS.cfm",
+                                                                            "description": "Alaska Department of Natural Resources statewide deed, mortgage, and land record search portal."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/",
+                                                                            "description": "Official Alaska Recorder's Office; handles deed recording and real property instruments for the entire state."
                                                                         }
                                                                     ]
                                                                 }
@@ -13465,6 +14177,53 @@
                                                                             "description": "Kodiak Island Borough assessor portal"
                                                                         }
                                                                     ]
+                                                                },
+                                                                {
+                                                                    "name": "Court Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 Third Judicial District (Kodiak)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/3rddistrict/kodiak.htm",
+                                                                            "description": "Superior Court and District Court for the Kodiak Island Borough."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska CourtView \u2013 Statewide Case Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://records.courts.alaska.gov/",
+                                                                            "description": "Alaska's public online court record search covering all trial courts statewide."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Property Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Kodiak Island Borough Assessor",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.kodiakak.us/government/departments/assessor",
+                                                                            "description": "Official Kodiak Island Borough Assessor's Office for property assessment and records."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office \u2013 Online Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/searchRPS.cfm",
+                                                                            "description": "Alaska Department of Natural Resources statewide deed, mortgage, and land record search portal."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/",
+                                                                            "description": "Official Alaska Recorder's Office; handles deed recording and real property instruments for the entire state."
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -13482,6 +14241,46 @@
                                                                             "children": [],
                                                                             "url": "https://dnr.alaska.gov/ssd/recoff/search/",
                                                                             "description": "Kusilvak Census Area assessor portal"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Court Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 Second Judicial District (Bethel)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/2nddistrict/bethel.htm",
+                                                                            "description": "Superior Court and District Court serving the Kusilvak Census Area."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska CourtView \u2013 Statewide Case Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://records.courts.alaska.gov/",
+                                                                            "description": "Alaska's public online court record search covering all trial courts statewide."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Property Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office \u2013 Online Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/searchRPS.cfm",
+                                                                            "description": "Alaska Department of Natural Resources statewide deed, mortgage, and land record search portal."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/",
+                                                                            "description": "Official Alaska Recorder's Office; handles deed recording and real property instruments for the entire state."
                                                                         }
                                                                     ]
                                                                 }
@@ -13509,6 +14308,53 @@
                                                                             "description": "Lake and Peninsula Borough assessor portal"
                                                                         }
                                                                     ]
+                                                                },
+                                                                {
+                                                                    "name": "Court Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 Third Judicial District (Dillingham)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/3rddistrict/dillingham.htm",
+                                                                            "description": "Superior Court and District Court serving the Lake and Peninsula Borough."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska CourtView \u2013 Statewide Case Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://records.courts.alaska.gov/",
+                                                                            "description": "Alaska's public online court record search covering all trial courts statewide."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Property Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Lake and Peninsula Borough",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.lakeandpenboroughak.us/",
+                                                                            "description": "Official Lake and Peninsula Borough website; borough office handles property assessment records."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office \u2013 Online Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/searchRPS.cfm",
+                                                                            "description": "Alaska Department of Natural Resources statewide deed, mortgage, and land record search portal."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/",
+                                                                            "description": "Official Alaska Recorder's Office; handles deed recording and real property instruments for the entire state."
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -13532,6 +14378,60 @@
                                                                             "children": [],
                                                                             "url": "https://myproperty.matsugov.us/",
                                                                             "description": "Matanuska-Susitna Borough assessor portal"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Court Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 Third Judicial District (Palmer)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/3rddistrict/palmer.htm",
+                                                                            "description": "Superior Court and District Court for the Matanuska-Susitna Borough."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska CourtView \u2013 Statewide Case Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://records.courts.alaska.gov/",
+                                                                            "description": "Alaska's public online court record search covering all trial courts statewide."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Property Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Matanuska-Susitna Borough Assessor",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.matsugov.us/departments/assessor",
+                                                                            "description": "Official MSB Assessor's Office for property assessment and real property records."
+                                                                        },
+                                                                        {
+                                                                            "name": "MSB Property Assessment Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://assessment.matsugov.us/",
+                                                                            "description": "Matanuska-Susitna Borough online property assessment and parcel search portal."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office \u2013 Online Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/searchRPS.cfm",
+                                                                            "description": "Alaska Department of Natural Resources statewide deed, mortgage, and land record search portal."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/",
+                                                                            "description": "Official Alaska Recorder's Office; handles deed recording and real property instruments for the entire state."
                                                                         }
                                                                     ]
                                                                 }
@@ -13559,6 +14459,46 @@
                                                                             "description": "Nome Census Area assessor portal"
                                                                         }
                                                                     ]
+                                                                },
+                                                                {
+                                                                    "name": "Court Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 Second Judicial District (Nome)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/2nddistrict/nome.htm",
+                                                                            "description": "Superior Court and District Court serving the Nome Census Area."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska CourtView \u2013 Statewide Case Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://records.courts.alaska.gov/",
+                                                                            "description": "Alaska's public online court record search covering all trial courts statewide."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Property Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office \u2013 Online Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/searchRPS.cfm",
+                                                                            "description": "Alaska Department of Natural Resources statewide deed, mortgage, and land record search portal."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/",
+                                                                            "description": "Official Alaska Recorder's Office; handles deed recording and real property instruments for the entire state."
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -13578,6 +14518,53 @@
                                                                             "description": "North Slope Borough assessor portal"
                                                                         }
                                                                     ]
+                                                                },
+                                                                {
+                                                                    "name": "Court Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 Second Judicial District (Utqia\u0121vik/Barrow)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/2nddistrict/barrow.htm",
+                                                                            "description": "Superior Court and District Court for the North Slope Borough."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska CourtView \u2013 Statewide Case Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://records.courts.alaska.gov/",
+                                                                            "description": "Alaska's public online court record search covering all trial courts statewide."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Property Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "North Slope Borough Assessor",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.north-slope.org/departments/assessor",
+                                                                            "description": "Official North Slope Borough Assessor's Office for property assessment and records."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office \u2013 Online Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/searchRPS.cfm",
+                                                                            "description": "Alaska Department of Natural Resources statewide deed, mortgage, and land record search portal."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/",
+                                                                            "description": "Official Alaska Recorder's Office; handles deed recording and real property instruments for the entire state."
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -13595,6 +14582,53 @@
                                                                             "children": [],
                                                                             "url": "https://dnr.alaska.gov/ssd/recoff/search/",
                                                                             "description": "Northwest Arctic Borough assessor portal"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Court Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 Second Judicial District (Kotzebue)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/2nddistrict/kotzebue.htm",
+                                                                            "description": "Superior Court and District Court for the Northwest Arctic Borough."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska CourtView \u2013 Statewide Case Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://records.courts.alaska.gov/",
+                                                                            "description": "Alaska's public online court record search covering all trial courts statewide."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Property Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Northwest Arctic Borough Assessor",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.nwabor.org/departments/assessor/",
+                                                                            "description": "Official Northwest Arctic Borough Assessor's Office for property assessment and records."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office \u2013 Online Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/searchRPS.cfm",
+                                                                            "description": "Alaska Department of Natural Resources statewide deed, mortgage, and land record search portal."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/",
+                                                                            "description": "Official Alaska Recorder's Office; handles deed recording and real property instruments for the entire state."
                                                                         }
                                                                     ]
                                                                 }
@@ -13622,6 +14656,60 @@
                                                                             "description": "Petersburg Borough assessor portal"
                                                                         }
                                                                     ]
+                                                                },
+                                                                {
+                                                                    "name": "Court Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 First Judicial District (Petersburg)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/1stdistrict/petersburg.htm",
+                                                                            "description": "District Court serving the Petersburg Borough."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 First Judicial District (Juneau)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/1stdistrict/juneau.htm",
+                                                                            "description": "Superior Court for the First Judicial District serving Petersburg Borough."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska CourtView \u2013 Statewide Case Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://records.courts.alaska.gov/",
+                                                                            "description": "Alaska's public online court record search covering all trial courts statewide."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Property Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Petersburg Borough Assessor",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.petersburgak.gov/government/departments/assessor",
+                                                                            "description": "Official Petersburg Borough Assessor's Office for property assessment and records."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office \u2013 Online Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/searchRPS.cfm",
+                                                                            "description": "Alaska Department of Natural Resources statewide deed, mortgage, and land record search portal."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/",
+                                                                            "description": "Official Alaska Recorder's Office; handles deed recording and real property instruments for the entire state."
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -13639,6 +14727,53 @@
                                                                             "children": [],
                                                                             "url": "https://dnr.alaska.gov/ssd/recoff/search/",
                                                                             "description": "Prince of Wales-Hyder Census Area assessor portal"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Court Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 First Judicial District (Craig)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/1stdistrict/craig.htm",
+                                                                            "description": "District Court magistrate station serving the Prince of Wales-Hyder Census Area."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 First Judicial District (Ketchikan)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/1stdistrict/ketchikan.htm",
+                                                                            "description": "Superior Court for the First Judicial District serving Prince of Wales-Hyder."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska CourtView \u2013 Statewide Case Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://records.courts.alaska.gov/",
+                                                                            "description": "Alaska's public online court record search covering all trial courts statewide."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Property Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office \u2013 Online Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/searchRPS.cfm",
+                                                                            "description": "Alaska Department of Natural Resources statewide deed, mortgage, and land record search portal."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/",
+                                                                            "description": "Official Alaska Recorder's Office; handles deed recording and real property instruments for the entire state."
                                                                         }
                                                                     ]
                                                                 }
@@ -13666,6 +14801,53 @@
                                                                             "description": "Sitka City and Borough assessor portal"
                                                                         }
                                                                     ]
+                                                                },
+                                                                {
+                                                                    "name": "Court Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 First Judicial District (Sitka)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/1stdistrict/sitka.htm",
+                                                                            "description": "Superior Court and District Court for the City and Borough of Sitka."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska CourtView \u2013 Statewide Case Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://records.courts.alaska.gov/",
+                                                                            "description": "Alaska's public online court record search covering all trial courts statewide."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Property Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "City and Borough of Sitka Assessor",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.cityofsitka.com/government/departments/finance/assessor.html",
+                                                                            "description": "Official Sitka Assessor's Office for property assessment and real property records."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office \u2013 Online Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/searchRPS.cfm",
+                                                                            "description": "Alaska Department of Natural Resources statewide deed, mortgage, and land record search portal."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/",
+                                                                            "description": "Official Alaska Recorder's Office; handles deed recording and real property instruments for the entire state."
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -13685,6 +14867,60 @@
                                                                             "description": "Skagway Borough assessor portal"
                                                                         }
                                                                     ]
+                                                                },
+                                                                {
+                                                                    "name": "Court Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 First Judicial District (Skagway)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/1stdistrict/skagway.htm",
+                                                                            "description": "District Court magistrate station serving Skagway Borough."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 First Judicial District (Juneau)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/1stdistrict/juneau.htm",
+                                                                            "description": "Superior Court for the First Judicial District serving Skagway Borough."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska CourtView \u2013 Statewide Case Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://records.courts.alaska.gov/",
+                                                                            "description": "Alaska's public online court record search covering all trial courts statewide."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Property Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Municipality of Skagway Assessor",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.skagway.org/government/departments/assessor",
+                                                                            "description": "Official Skagway Borough Assessor's Office for property assessment and records."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office \u2013 Online Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/searchRPS.cfm",
+                                                                            "description": "Alaska Department of Natural Resources statewide deed, mortgage, and land record search portal."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/",
+                                                                            "description": "Official Alaska Recorder's Office; handles deed recording and real property instruments for the entire state."
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -13702,6 +14938,53 @@
                                                                             "children": [],
                                                                             "url": "https://dnr.alaska.gov/ssd/recoff/search/",
                                                                             "description": "Southeast Fairbanks Census Area assessor portal"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Court Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 Fourth Judicial District (Delta Junction)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/4thdistrict/deltajunction.htm",
+                                                                            "description": "District Court magistrate station serving the Southeast Fairbanks Census Area."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 Fourth Judicial District (Fairbanks)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/4thdistrict/fairbanks.htm",
+                                                                            "description": "Superior Court for the Fourth Judicial District serving Southeast Fairbanks Census Area."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska CourtView \u2013 Statewide Case Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://records.courts.alaska.gov/",
+                                                                            "description": "Alaska's public online court record search covering all trial courts statewide."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Property Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office \u2013 Online Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/searchRPS.cfm",
+                                                                            "description": "Alaska Department of Natural Resources statewide deed, mortgage, and land record search portal."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/",
+                                                                            "description": "Official Alaska Recorder's Office; handles deed recording and real property instruments for the entire state."
                                                                         }
                                                                     ]
                                                                 }
@@ -13729,6 +15012,60 @@
                                                                             "description": "Wrangell City and Borough assessor portal"
                                                                         }
                                                                     ]
+                                                                },
+                                                                {
+                                                                    "name": "Court Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 First Judicial District (Wrangell)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/1stdistrict/wrangell.htm",
+                                                                            "description": "District Court serving the City and Borough of Wrangell."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 First Judicial District (Ketchikan)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/1stdistrict/ketchikan.htm",
+                                                                            "description": "Superior Court for the First Judicial District serving Wrangell."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska CourtView \u2013 Statewide Case Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://records.courts.alaska.gov/",
+                                                                            "description": "Alaska's public online court record search covering all trial courts statewide."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Property Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "City and Borough of Wrangell Assessor",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.wrangell.com/government/departments/assessor",
+                                                                            "description": "Official Wrangell Assessor's Office for property assessment and real property records."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office \u2013 Online Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/searchRPS.cfm",
+                                                                            "description": "Alaska Department of Natural Resources statewide deed, mortgage, and land record search portal."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/",
+                                                                            "description": "Official Alaska Recorder's Office; handles deed recording and real property instruments for the entire state."
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         }
@@ -13754,6 +15091,60 @@
                                                                             "description": "Yakutat City and Borough assessor portal"
                                                                         }
                                                                     ]
+                                                                },
+                                                                {
+                                                                    "name": "Court Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 First Judicial District (Yakutat)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/1stdistrict/yakutat.htm",
+                                                                            "description": "District Court magistrate station serving the City and Borough of Yakutat."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 First Judicial District (Juneau)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/1stdistrict/juneau.htm",
+                                                                            "description": "Superior Court for the First Judicial District serving Yakutat."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska CourtView \u2013 Statewide Case Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://records.courts.alaska.gov/",
+                                                                            "description": "Alaska's public online court record search covering all trial courts statewide."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Property Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "City and Borough of Yakutat",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://www.yakutat.net/",
+                                                                            "description": "Official Yakutat City and Borough website; municipal office handles property assessment records."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office \u2013 Online Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/searchRPS.cfm",
+                                                                            "description": "Alaska Department of Natural Resources statewide deed, mortgage, and land record search portal."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/",
+                                                                            "description": "Official Alaska Recorder's Office; handles deed recording and real property instruments for the entire state."
+                                                                        }
+                                                                    ]
                                                                 }
                                                             ]
                                                         },
@@ -13771,6 +15162,53 @@
                                                                             "children": [],
                                                                             "url": "https://dnr.alaska.gov/ssd/recoff/search/",
                                                                             "description": "Yukon-Koyukuk Census Area assessor portal"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Court Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 Fourth Judicial District (Fairbanks)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/4thdistrict/fairbanks.htm",
+                                                                            "description": "Superior Court for the Fourth Judicial District serving the Yukon-Koyukuk Census Area."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska Court System \u2013 Fourth Judicial District (Galena)",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://courts.alaska.gov/locations/4thdistrict/galena.htm",
+                                                                            "description": "District Court magistrate station serving portions of the Yukon-Koyukuk Census Area."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska CourtView \u2013 Statewide Case Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://records.courts.alaska.gov/",
+                                                                            "description": "Alaska's public online court record search covering all trial courts statewide."
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "Property Records",
+                                                                    "type": "folder",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office \u2013 Online Search",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/searchRPS.cfm",
+                                                                            "description": "Alaska Department of Natural Resources statewide deed, mortgage, and land record search portal."
+                                                                        },
+                                                                        {
+                                                                            "name": "Alaska DNR Recorder's Office",
+                                                                            "type": "link",
+                                                                            "children": [],
+                                                                            "url": "https://dnr.alaska.gov/ssd/recoff/",
+                                                                            "description": "Official Alaska Recorder's Office; handles deed recording and real property instruments for the entire state."
                                                                         }
                                                                     ]
                                                                 }
